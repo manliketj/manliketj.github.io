@@ -1,0 +1,39 @@
+
+
+
+
+body{
+  font-family: comft-r;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+  font-weight: 900;
+  /* color: #333333; */
+  font-family: comft;  
+  letter-spacing: 0.9px;
+}
+
+h1{
+  font-size: 40px;
+}
+
+h2{
+  font-size: 30px;
+}
+
+.text-cap{
+  text-transform: uppercase;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: 290px;
+}
+
+
+
